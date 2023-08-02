@@ -29,7 +29,7 @@ PyTorch is an open-source machine learning library developed by Facebook's AI Re
 
 How to Use
 Each library tutorial is organized into separate folders. Inside each folder, you will find detailed explanations, 
-code examples, and hands-on exercises to help you understand the library's functionalities. 
+code examples to help you understand the library's functionalities. 
 Feel free to explore, learn, and experiment with the code provided.
 
 Contribution
