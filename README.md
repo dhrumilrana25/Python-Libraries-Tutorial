@@ -8,24 +8,31 @@ Libraries Covered
 
 1. NumPy
 NumPy is the fundamental package for scientific computing with Python. It provides support for arrays, matrices, and mathematical functions, making it an essential library for data analysis and numerical computations.
+![Numpy](https://github.com/dhrumilrana25/Python-Libraries-Tutorial/assets/139121688/1046584e-54b5-4448-83bf-b731c069752d)
 
 2. Pandas
 Pandas is a powerful and flexible library for data manipulation and analysis. With its DataFrame and Series structures, Pandas simplifies data handling, cleaning, and preparation tasks.
+![Pandas_logo svg](https://github.com/dhrumilrana25/Python-Libraries-Tutorial/assets/139121688/1bbe69e6-43a8-4608-99ae-97173b598901)
+
 
 3. Matplotlib
 Matplotlib is a versatile library for creating static, interactive, and animated visualizations in Python. It offers a wide range of plotting options to help you present your data effectively.
+![matplot_title_logo](https://github.com/dhrumilrana25/Python-Libraries-Tutorial/assets/139121688/7f321118-96e8-4c4c-bc97-9ef7d6c9477b)
+
 
 4. Seaborn
 Seaborn is a data visualization library built on top of Matplotlib. It provides a higher-level interface for creating attractive statistical graphics, making it easy to generate informative visualizations.
+![seaborn](https://github.com/dhrumilrana25/Python-Libraries-Tutorial/assets/139121688/84ed1374-1afe-4375-b5c9-e9e45bd07204)
+
 
 5. Keras
 Keras is a high-level neural networks API, written in Python, that runs on top of deep learning frameworks like TensorFlow and Theano. It simplifies the process of building and training deep learning models.
 
-6. TensorFlow
-TensorFlow is an open-source machine learning library developed by Google. It is widely used for building and training deep learning models, including neural networks.
+![keras](https://github.com/dhrumilrana25/Python-Libraries-Tutorial/assets/139121688/f0115c96-6e85-4e9b-9836-98c9d5775fc6)
 
-7. PyTorch
-PyTorch is an open-source machine learning library developed by Facebook's AI Research lab (FAIR). It is known for its dynamic computational graph, making it highly popular among researchers and developers.
+7. TensorFlow
+TensorFlow is an open-source machine learning library developed by Google. It is widely used for building and training deep learning models, including neural networks.
+![tensor flow](https://github.com/dhrumilrana25/Python-Libraries-Tutorial/assets/139121688/b3d3926f-2ac2-4f44-a80f-cc8f1e8799d6)
 
 How to Use
 Each library tutorial is organized into separate folders. Inside each folder, you will find detailed explanations, 
